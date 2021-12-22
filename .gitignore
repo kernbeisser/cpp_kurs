@@ -4,3 +4,4 @@ build/
 template.cpp
 .DS_Store
 .vscode
+src/section_06/even_odd
